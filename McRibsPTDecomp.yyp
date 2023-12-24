@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.6",
-  "name": "PizzaTower_GM2",
+  "name": "McRibsPTDecomp",
   "resources": [
     {"id":{"name":"obj_bossdoor","path":"objects/obj_bossdoor/obj_bossdoor.yy",},"order":0,},
     {"id":{"name":"obj_hardmode","path":"objects/obj_hardmode/obj_hardmode.yy",},"order":0,},
